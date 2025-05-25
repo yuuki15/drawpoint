@@ -4,4 +4,4 @@ function drawLine(x1, x2) {
   }
 }
 
-drawLine(-300, 300);
+drawLine(-200, 200);
