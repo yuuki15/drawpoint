@@ -1,1 +1,1 @@
-# drawPoint-geometry
+# `drawPoint(x, y)` geometry
